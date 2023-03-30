@@ -6,7 +6,7 @@ const Form = ({ handleSubmit }) => {
       <input
         name="inputText"
         placeholder="Search your image"
-        className="form-control w-100 mt-1 mb-1"
+        className="form-control w-100 mt-2 mb-2"
       />
 
       <button className="btn btn-outline-success block w-100" type="submit">
